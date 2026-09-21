@@ -1,0 +1,6 @@
+{
+  "name": "RedCloud VPN",
+  "description": "Multi-core anti-censorship client featuring V2Ray Dashboard, Aether WARP/MASQUE engine, and Tor Onion network routing with live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
